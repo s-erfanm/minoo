@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int main() {
   int first_num, second_num;
   cout<<"enter your first number :";
