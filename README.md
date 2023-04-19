@@ -6,3 +6,5 @@ you can run this linkes to run the programm by yourself ! 🙄
  https://replit.com/@SerfanM/first
  # 2 :
  https://replit.com/@SerfanM/training2
+# 3 :
+ https://replit.com/@SerfanM/trainig-2-3
