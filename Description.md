@@ -1,7 +1,7 @@
 # minoo
 C++ training project is here !
 
-you can run this linkes to run the programm by yourself ! 🙄
+you can click this linkes to run the programm by yourself ! 🙄
  # 1 :
  https://replit.com/@SerfanM/first
  # 2 :
