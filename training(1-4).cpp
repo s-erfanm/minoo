@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
+    
     int game_sec;
     cout << "Enter the number of seconds game time : ";
     cin >> game_sec;
