@@ -15,3 +15,5 @@ you can click this linkes to run the programm by yourself ! 🙄
   https://replit.com/@SerfanM/training6
   # 7 :
   https://replit.com/@SerfanM/training7
+  # 8 :
+  https://replit.com/@SerfanM/training8
