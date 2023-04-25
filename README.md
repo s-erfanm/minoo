@@ -23,3 +23,5 @@ you can click this linkes to run the programm by yourself ! 🙄
   https://replit.com/@SerfanM/training10
   # 11:
   https://replit.com/@SerfanM/training11
+  # 12:
+  https://replit.com/@SerfanM/training12
