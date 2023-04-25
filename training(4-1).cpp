@@ -14,7 +14,7 @@ void print_sorted(string input){
 }
 int main() {
     string input, first, second, third, fourth;
-    cout<<"enter four words :";
+    cout<<"enter a word with four char :";
     cin >> input;
 
     print_sorted(input);
