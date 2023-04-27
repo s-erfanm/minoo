@@ -17,19 +17,19 @@ you can click this linkes to run the programm by yourself ! 🙄
   https://replit.com/@SerfanM/training7
   # 8 :
   https://replit.com/@SerfanM/training8
-  # 9:
+  # 9 :
   https://replit.com/@SerfanM/training9
-  # 10:
+  # 10 :
   https://replit.com/@SerfanM/training10
-  # 11:
+  # 11 :
   https://replit.com/@SerfanM/training11
-  # 12:
+  # 12 :
   https://replit.com/@SerfanM/training12
-  # 13:
+  # 13 :
   https://replit.com/@SerfanM/training13
-  # 14:
+  # 14 :
   https://replit.com/@SerfanM/training14
-  # 15 (not complete):
-  https://replit.com/@SerfanM/training15
+  # 15 :
+  (not complete) : https://replit.com/@SerfanM/training15
   # 16 :
   https://replit.com/@SerfanM/training16
