@@ -1,6 +1,6 @@
 # minoo
 C++ training project is here ! (need VPN)
-you can click this linkes to run the programm by yourself ! 🙄
+you can click this linkes to run the program by yourself ! 🙄
   # 1 :
  https://replit.com/@SerfanM/first
   # 2 :
