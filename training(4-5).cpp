@@ -2,17 +2,19 @@
 
 using namespace std;
 
+float bmi_compute(float height, float weight){
+    return weight / (height * height;
+
 int main() {
     float weight, height, bmi;
 
-    // Get weight and height from user
     cout << "Enter your weight in kilograms: ";
     cin >> weight;
     cout << "Enter your height in meters: ";
     cin >> height;
 
     // Calculate the BMI
-    bmi = weight / (height * height);
+    bmi = bmi_compute(height,weight)
 
     // Determine weight status based on BMI
     if (bmi < 18.5) {
