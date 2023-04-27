@@ -19,7 +19,7 @@ int main() {
 
     print_sorted(input);
   
-    
+   
 
 
     return 0;
