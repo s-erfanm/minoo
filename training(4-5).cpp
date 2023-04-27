@@ -3,7 +3,8 @@
 using namespace std;
 
 float bmi_compute(float height, float weight){
-    return weight / (height * height;
+    return weight / (height * height);
+}
 
 int main() {
     float weight, height, bmi;
@@ -14,7 +15,7 @@ int main() {
     cin >> height;
 
     // Calculate the BMI
-    bmi = bmi_compute(height,weight)
+    bmi = bmi_compute(height,weight);
 
     // Determine weight status based on BMI
     if (bmi < 18.5) {
