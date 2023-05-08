@@ -33,3 +33,7 @@ you can click this linkes to run the program by yourself ! 🙄
   (not complete) : https://replit.com/@SerfanM/training15
   # 16 :
   https://replit.com/@SerfanM/training16
+  # 17 :
+  https://replit.com/@SerfanM/training17
+  # 18 :
+  https://replit.com/@SerfanM/training18
