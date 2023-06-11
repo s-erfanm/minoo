@@ -1,73 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T07:32:01.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KChckAtqd7eVzKwl-Ugw" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T14:57:05.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j_Uq0V7AySSOzlXDnyxx" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1105" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-31" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="منوی مدیریت کتابخانه&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="پیام خوش آمدید&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-2">
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-70" target="i-DLqj3eDkAQhv2jgfeZ-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-6" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;لیست&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-DLqj3eDkAQhv2jgfeZ-3">
-          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-4">
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-16" value="&lt;b style=&quot;font-size: 12px; background-color: rgb(42, 37, 47);&quot;&gt;اضافه کردن&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-DLqj3eDkAQhv2jgfeZ-5">
-          <mxGeometry x="-0.2133" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-14">
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="270" as="targetPoint" />
+            <mxPoint x="740" y="530.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="270" />
-              <mxPoint x="600" y="270" />
+              <mxPoint x="525" y="300" />
+              <mxPoint x="740" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-15" value="امانت&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-DLqj3eDkAQhv2jgfeZ-13">
-          <mxGeometry x="-0.2926" relative="1" as="geometry">
-            <mxPoint x="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-28">
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.0526315789473" y="525" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-23" value="خروج" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-DLqj3eDkAQhv2jgfeZ-21">
-          <mxGeometry x="0.2566" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="540" as="targetPoint" />
+            <mxPoint x="360" y="630" as="targetPoint" />
+            <mxPoint x="400" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="630" y="295" />
+              <mxPoint x="435" y="300" />
+              <mxPoint x="290" y="300" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-26" value="گزارش" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i-DLqj3eDkAQhv2jgfeZ-24">
-          <mxGeometry x="0.2083" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="چه کار میکنید ؟&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="220" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="340" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="i-DLqj3eDkAQhv2jgfeZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-0" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry">
@@ -78,46 +50,147 @@
         <mxCell id="i-DLqj3eDkAQhv2jgfeZ-0" value="شروع" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-2" target="i-DLqj3eDkAQhv2jgfeZ-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-2" value="نشان دادن لیست نام کتاب ها و پرسش برای انتخاب کردن&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-4" value="اجرای تابعی که اطلاعات کتاب را از کاربر دریافت کند و با آن یک شی درست کند&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="420" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-10" value="&lt;h1 style=&quot;font-size: 21px; line-height: 50%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;برای هر کتاب یک ساختار شی گرا&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;ol style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;نوع&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;نام‌&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;نام نویسنده&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;دسته بندی&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;صاحب فعلی&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="10" width="250" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-14" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-4" target="i-DLqj3eDkAQhv2jgfeZ-31">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="790" y="270" />
-              <mxPoint x="790" y="140" />
+              <mxPoint x="210" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-14" value="گرفتن آیدی کاربر و اضافه کردن آن به قسمت صاحب فعلی در شی آن کتاب&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-4" value="تابعی که اطلاعات ایمیل را یکی یکی دریافت کند و در یک شی از آن درست کند" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="350" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-17" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-10" value="&lt;h1 style=&quot;font-size: 21px; line-height: 50%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;برای هر ایمیل یک ساختار&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;ol style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;موضوع&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;فرستنده&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;گیرنده&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;بدنه&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;تگ&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="10" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-14" target="i-DLqj3eDkAQhv2jgfeZ-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80.00000000000011" y="168.66665310329861" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="410" />
-              <mxPoint x="120" y="140" />
+              <mxPoint x="790" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-17" value="اجرای تابعی که اطلاعات موجود آن آرایه را نمایش دهد&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-25" value="اجرای تابع و نمایش تمامی کتاب ها با تمامی اطلاعات" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-14" value="تابعی که موضوع تمامی ایمیل هارا بر حسب تاریخ نوشته شده نمایش دهد&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-DLqj3eDkAQhv2jgfeZ-28" value="خروج" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250.05263157894728" y="485" width="120" height="80" as="geometry" />
+          <mxGeometry x="420.0026315789473" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-32" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="i-DLqj3eDkAQhv2jgfeZ-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="160" as="sourcePoint" />
+            <mxPoint x="480" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-31" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-31" value="نشان دادن منو&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-43" value="نوشتن ایمیل" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="370" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-44" value="مشاهده&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-46" value="باز کردن&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-47" target="i-DLqj3eDkAQhv2jgfeZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-47" value="دریافت&amp;nbsp; ایندکس ایمیل&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-48" target="i-DLqj3eDkAQhv2jgfeZ-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="208" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="700" />
+              <mxPoint x="810" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-48" value="نشان دادن تمامی اطلاعات ایمیل" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-52" target="i-DLqj3eDkAQhv2jgfeZ-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-52" value="اجرای تابع مشاهده برای دیدن لیست ایمیل ها&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-54" target="i-DLqj3eDkAQhv2jgfeZ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-54" value="گرفتن ایندکس ایمیل" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-55" target="i-DLqj3eDkAQhv2jgfeZ-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="770" />
+              <mxPoint x="60" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-55" value="دریافت تمامی ورودی های ایمیل" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-61" value="ادیت&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="i-DLqj3eDkAQhv2jgfeZ-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="440" as="sourcePoint" />
+            <mxPoint x="480" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-64" value="خروج" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-66" target="i-DLqj3eDkAQhv2jgfeZ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-73" target="i-DLqj3eDkAQhv2jgfeZ-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="680" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-66" value="آیا مطمئن هستید؟" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-64" target="i-DLqj3eDkAQhv2jgfeZ-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="505" as="sourcePoint" />
+            <mxPoint x="480" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-70" value="بله" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="755" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-74" value="نشان دادن منو" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-DLqj3eDkAQhv2jgfeZ-66" target="i-DLqj3eDkAQhv2jgfeZ-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="505" as="targetPoint" />
+            <mxPoint x="533" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-73" value="خیر" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-DLqj3eDkAQhv2jgfeZ-77" value="&lt;h1&gt;Email manager&lt;/h1&gt;&lt;div&gt;یک برنامه با زبان سی پلاس پلاس که میتواند به صورت استاتیک اطلاعات ایمیل شما را دریافت کند ، لیست آنها را نشان دهد ، هر ایمیل را به صورت کامل با اطلاعات نمایش دهد و آنها را ادیت کند .&amp;nbsp;&lt;/div&gt;&lt;div&gt;کاری از مجتبی رضایی (گرافیک و نمایش پیام به کاربر در کنسول و ایموجی ها&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;سید عرفان موسوی(توابع و فلوچارت)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="87" y="949" width="283" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
